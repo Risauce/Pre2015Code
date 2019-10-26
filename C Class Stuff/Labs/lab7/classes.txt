@@ -1,0 +1,9 @@
+CSCI112 Programming with C 3
+CSCI127 Joy and Beauty of Data 4
+CSCI132 Basic Data Structures and Algorithms 4
+CSCI338 Computer Science Theory 3
+CSCI215 Social and Ethical Issues in CS 3
+ARCH112 Introduction to Design 3
+COMX112 Interpersonal Skills in the Workplace 1
+HSTA101 American History 4
+XXXXXXX XXXXXX X

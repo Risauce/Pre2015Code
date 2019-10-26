@@ -1,0 +1,6 @@
+Corn 89 3 C
+Beans 92 3 C
+Chicken 182 2 M
+Beef 283 2 M
+Milk 189 1 D
+Eggs 123 1 P
